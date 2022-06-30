@@ -2,6 +2,8 @@
 
 This project was done in collaboration with [Ritwik Dev](https://github.com/RitwikDev).
 
+You can watch the demonstration [here](https://youtu.be/1cz3UxKJ6c8).
+
 ## Overview
 
 | <img width="1277" alt="Overview" src="https://user-images.githubusercontent.com/82426895/166475478-d279e0e4-04aa-4da4-a4ae-fdffb6cae903.png"> |
