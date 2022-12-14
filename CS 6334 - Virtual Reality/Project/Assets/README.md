@@ -6,7 +6,7 @@
 - [x] Road Architect
 - [x] Simple city plain
 - [x] Textures
-- [x] Google VR
+- [x] Google VR - *Some scripts might be missing. Reinstall the GoogleVRForUnity package (included) and everything should run as intended.*
 - [x] Guns
 - [x] FBX
 - [x] TextMesh Pro
