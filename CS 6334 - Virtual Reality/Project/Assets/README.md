@@ -1,2 +1,26 @@
-## Missing Asset
-- ***Block Building Pack*** - Did not upload this asset because of its file size. Before running the project, make sure to [download](https://assetstore.unity.com/packages/3d/environments/urban/block-building-pack-13925) and place it in the **Assets** folder.
+## Assets
+
+- [ ] Block Building Pack - *Did not upload this asset because of its file size. Before running the project, make sure to [download](https://assetstore.unity.com/packages/3d/environments/urban/block-building-pack-13925) and place it in the **Assets** folder*.
+- [x] Import
+- [x] Grass Flowers
+- [x] Road Architect
+- [x] Simple city plain
+- [x] Textures
+- [x] Google VR
+- [x] Guns
+- [x] FBX
+- [x] TextMesh Pro
+- [x] Prefabs
+- [x] MASH Virtual
+- [x] Unity
+- [x] Scenes
+- [x] GoogleVRForUnity
+- [x] Terrain
+- [x] Sound Effects
+- [x] Scripts
+- [x] Readme.asset
+- [x] New Terrain
+- [x] Materials
+- [x] laxer tree pkg
+- [x] Effect Examples
+- [x] Animations
